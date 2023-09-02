@@ -12,4 +12,4 @@ In the future, I'd like to mess with user authentication and maybe use the flask
 This is the only way i know how to link a DB to a python script, however if you know a better way feel free to let me know.
 This would in turn, however, allow me to implement message logging and would probably just be more practical overall. 
 
-Any feedback would be appreciated, thanks for viewing this repo!
+Any feedback would be appreciated, thanks for viewing
