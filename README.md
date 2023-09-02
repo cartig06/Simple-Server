@@ -8,6 +8,8 @@ The only arguments the init method for the server takes is a port you'd like the
 For the client, you'll need to supply a host and a port. The host should just be the IP address of the computer the server 
 is running on.
 
+I've included examples for both in the repo
+
 In the future, I'd like to mess with user authentication and maybe use the flask library to link a mysql database to it.
 This is the only way i know how to link a DB to a python script, however if you know a better way feel free to let me know.
 This would in turn, however, allow me to implement message logging and would probably just be more practical overall. 
